@@ -4,19 +4,19 @@ The Library Management System (LMS) is a software solution for managing student 
 # Introduction
 The Library Management System (LMS) is a software application designed to automate and simplify the management of library resources and student interactions. 
 ## Students Function:
-1.Create an account
-2.View balance
-3.Deposit amount
-4.Issue a book 
+1. Create an account
+2. View balance
+3. Deposit amount
+4. Issue a book 
 Account management: The system supports up to 100 students, who pay $20 for account opening and $30 as a security deposit. Students can issue any book for $2 for a 10-day period. Fines are imposed for late returns as per the specified rules.
 
 Data storage: The system uses 2D arrays to store the details of students and books. Initially, 15 books are stored in the library. Each student account contains the roll number, balance, and first name.
 ## Admin Functions:
-1.Add a book to the system 
-2.Edit the details of the boo
-3.View the status of books
-4.View enrolled students
-5.View student balance
+1. Add a book to the system 
+2. Edit the details of the boo
+3. View the status of books
+4. View enrolled students
+5. View student balance
 
 The system stores data in external files, ensuring persistence across sessions and promoting smooth operations.
 The motivation behind developing this project is to address the challenges faced by traditional manual library systems, such as time-consuming record-keeping, inefficient tracking of book availability, and the complexity of managing student transactions. By automating these tasks, E-LMS reduces human error and improves overall operational efficiency.
