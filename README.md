@@ -7,8 +7,9 @@ The Library Management System (LMS) is a software application designed to automa
 1. Create an account
 2. View balance
 3. Deposit amount
-4. Issue a book
-5. Fine according
+4. Add amount
+5. Issue an item
+6. Return item
 
 Account management: The system supports up to 100 students, who pay $20 for account opening and $30 as a security deposit. Students can issue any book for $2 for a 10-day period. Fines are imposed for late returns as per the specified rules.
 
@@ -16,9 +17,13 @@ Data storage: The system uses 2D arrays to store the details of students and boo
 ## Admin Functions:
 1. Add a book to the system 
 2. Edit the details of the books
-3. View the status of books
-4. View enrolled students
-5. View student balance
+3. Find student
+4. Find Book
+5. Remove Book
+6. View the status of books
+7. View enrolled students
+8. View student balance
+9. Fine Calculation
 
 The system stores data in external files, ensuring persistence across sessions and promoting smooth operations.
 The motivation behind developing this project is to address the challenges faced by traditional manual library systems, such as time-consuming record-keeping, inefficient tracking of book availability, and the complexity of managing student transactions. By automating these tasks, E-LMS reduces human error and improves overall operational efficiency.
