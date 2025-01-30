@@ -11,7 +11,7 @@ The Library Management System (LMS) is a software application designed to automa
 5. Issue an item
 6. Return item
 
-Account management: The system supports up to 100 students, who pay $20 for account opening and $30 as a security deposit. Students can issue any book for $2 for a 10-day period. Fines are imposed for late returns as per the specified rules.
+Account management: The system supports up to 100 students, who pay $20 for account opening and $30 as a security deposit. Students can issue any book for $2 for a 7-day period. Fines are imposed for late returns as per the specified rules.
 
 Data storage: The system uses 2D arrays to store the details of students and books. Initially, 15 books are stored in the library. Each student account contains the roll number, balance, and first name.
 ## Admin Functions:
